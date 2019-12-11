@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f63fcf6-37db-4263-8181-1f5c685438e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_sass/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-12-09-kiwifruit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-12-10-apples.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-12-11-bananas.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/navigation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/defaultLayout.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/defaultLayout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +64,17 @@
       <workItem from="1575902673523" duration="355000" />
       <workItem from="1575964882613" duration="3225000" />
       <workItem from="1575983284918" duration="747000" />
-      <workItem from="1576046744212" duration="988000" />
+      <workItem from="1576046744212" duration="3302000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1490" y="690" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576054139350">
+      <screen x="0" y="23" width="2048" height="1047" />
+    </state>
+    <state x="1490" y="690" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2048.1047@0.23.2048.1047" timestamp="1576054139350" />
   </component>
 </project>
