@@ -1,5 +1,4 @@
 ---
-layout: defaultLayout
 title: About
 ---
 

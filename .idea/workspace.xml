@@ -2,13 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f63fcf6-37db-4263-8181-1f5c685438e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-12-09-kiwifruit.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-12-10-apples.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-12-11-bananas.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/16/5521306322aa1b9cf7e96d93fe6f4e42dd013ea3a79c856055ea8b10e66808" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/7c/5af123f6e0e9713ce51b2d689b0eb991dc12ef8034f6435e55482892d5e6f5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f9/9fa07e502710c64302b014fec3739da700ed373004381f5376397bf2cd66e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/fb/968c5a31a1d1231193ad2f3746257d8413661a1a8768409c5c8ee8b8f19295" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_authors/jill.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_authors/ted.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/author.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/authors/jill.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/authors/ted.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/staff.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-09-kiwifruit.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-09-kiwifruit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-10-apples.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-10-apples.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-11-bananas.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-11-bananas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2019/12/09/kiwifruit.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2019/12/09/kiwifruit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2019/12/10/apples.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2019/12/10/apples.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2019/12/11/bananas.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2019/12/11/bananas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +85,7 @@
       <workItem from="1575902673523" duration="355000" />
       <workItem from="1575964882613" duration="3225000" />
       <workItem from="1575983284918" duration="747000" />
-      <workItem from="1576046744212" duration="3302000" />
+      <workItem from="1576046744212" duration="10748000" />
     </task>
     <servers />
   </component>
