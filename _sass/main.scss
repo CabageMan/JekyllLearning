@@ -1,6 +1,15 @@
 // Variables
 $currentLinkColor: darkcyan;
+$topMenuBackgroundColor: red;
+
+.top-menu {
+  background: $topMenuBackgroundColor;
+  color: $topMenuBackgroundColor;
+  font-size: 16px;
+  padding: 19px 0;
+}
 
 .current {
   color: $currentLinkColor;
+  text-decoration: none;
 }

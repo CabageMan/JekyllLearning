@@ -7,8 +7,8 @@
 	],
 	"sourcesContent": [
 		"@import \"main\";",
-		"// Variables\n$currentLinkColor: darkcyan;\n\n.current {\n  color: $currentLinkColor;\n}"
+		"// Variables\n$currentLinkColor: darkcyan;\n$topMenuBackgroundColor: red;\n\n.top-menu {\n  background: $topMenuBackgroundColor;\n  color: $topMenuBackgroundColor;\n  font-size: 16px;\n  padding: 19px 0;\n}\n\n.current {\n  color: $currentLinkColor;\n  text-decoration: none;\n}"
 	],
 	"names": [],
-	"mappings": "ACGA,AAAA,QAAQ,CAAC,EACP,KAAK,EAHY,QAAQ,GAI1B"
+	"mappings": "ACIA,AAAA,SAAS,CAAC,EACR,UAAU,EAHa,GAAG,EAI1B,KAAK,EAJkB,GAAG,EAK1B,SAAS,EAAE,IAAI,EACf,OAAO,EAAE,MAAM,GAChB;;AAED,AAAA,QAAQ,CAAC,EACP,KAAK,EAXY,QAAQ,EAYzB,eAAe,EAAE,IAAI,GACtB"
 }

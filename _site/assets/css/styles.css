@@ -1,3 +1,5 @@
-.current { color: darkcyan; }
+.top-menu { background: red; color: red; font-size: 16px; padding: 19px 0; }
+
+.current { color: darkcyan; text-decoration: none; }
 
 /*# sourceMappingURL=styles.css.map */

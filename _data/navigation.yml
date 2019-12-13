@@ -1,12 +1,12 @@
-- name: Home
+- name: HOME
   link: /
-- name: Categories
+- name: CATEGORIES
   link: /categories/
-- name: Blog
+- name: BLOG
   link: /blog/
-- name: Staff
+- name: STAFF
   link: /staff/
-- name: About
+- name: ABOUT
   link: /about/
-- name: Contact
+- name: CONTACT
   link: /contact/
