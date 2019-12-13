@@ -7,8 +7,8 @@
 	],
 	"sourcesContent": [
 		"@import \"main\";",
-		".current {\n  color: darkcyan;\n}"
+		"// Variables\n$currentLinkColor: darkcyan;\n\n.current {\n  color: $currentLinkColor;\n}"
 	],
 	"names": [],
-	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACP,KAAK,EAAE,QAAQ,GAChB"
+	"mappings": "ACGA,AAAA,QAAQ,CAAC,EACP,KAAK,EAHY,QAAQ,GAI1B"
 }

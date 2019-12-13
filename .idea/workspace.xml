@@ -2,34 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f63fcf6-37db-4263-8181-1f5c685438e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/16/5521306322aa1b9cf7e96d93fe6f4e42dd013ea3a79c856055ea8b10e66808" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/7c/5af123f6e0e9713ce51b2d689b0eb991dc12ef8034f6435e55482892d5e6f5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f9/9fa07e502710c64302b014fec3739da700ed373004381f5376397bf2cd66e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/fb/968c5a31a1d1231193ad2f3746257d8413661a1a8768409c5c8ee8b8f19295" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_authors/jill.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_authors/ted.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/author.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/authors/jill.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/authors/ted.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/staff.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staff.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/00/ec5c8d2fe4440a949850ba9441e1081a8987930d08f755ad88a1b0184fa992" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/98/2766b9dffacc322aaa7f40944738d134e45e9d0f36f1848b6d3e067400d13f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/images/Apples.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/images/Bananas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/images/Kiwis.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/categories/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/contact/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Apples.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Bananas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Kiwis.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/categories.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/contact.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/43/d31a7178ed5db48a5ea2d4a5f2ae21e3e5c173dbf207ca6f1687b3ce05a880" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/2b/3c80ea8a8b2a4c9b090ccfa12a6a6f72e1facaa1e84549d0ab600644ac1b37" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b2/df96b43a8500570394d8647e6a84064c5dbcff827e98aeba4db392a4a115ad" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/navigation.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-12-09-kiwifruit.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-09-kiwifruit.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-12-10-apples.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-10-apples.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-12-11-bananas.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-11-bananas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2019/12/09/kiwifruit.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2019/12/09/kiwifruit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2019/12/10/apples.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2019/12/10/apples.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2019/12/11/bananas.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2019/12/11/bananas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/styles.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/authors/jill.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/jill.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/authors/ted.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/ted.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/staff.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/staff/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staff.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/staff.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,18 +54,37 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UkZhFkR1MwFGqlR2OihhfuL71A" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="staff.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MyBlogLearning/pages/staff.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.staff.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -85,17 +111,88 @@
       <workItem from="1575902673523" duration="355000" />
       <workItem from="1575964882613" duration="3225000" />
       <workItem from="1575983284918" duration="747000" />
-      <workItem from="1576046744212" duration="10748000" />
+      <workItem from="1576046744212" duration="11732000" />
+      <workItem from="1576131483815" duration="170000" />
+      <workItem from="1576135090782" duration="7144000" />
+      <workItem from="1576217896836" duration="2155000" />
+      <workItem from="1576226398666" duration="192000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="1490" y="690" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576054139350">
       <screen x="0" y="23" width="2048" height="1047" />
     </state>
     <state x="1490" y="690" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2048.1047@0.23.2048.1047" timestamp="1576054139350" />
+    <state width="1379" height="334" key="GridCell.Tab.0.bottom" timestamp="1576163979824">
+      <screen x="0" y="23" width="2048" height="1047" />
+    </state>
+    <state width="1379" height="334" key="GridCell.Tab.0.bottom/0.23.2048.1047@0.23.2048.1047" timestamp="1576163979824" />
+    <state width="1379" height="334" key="GridCell.Tab.0.center" timestamp="1576163979823">
+      <screen x="0" y="23" width="2048" height="1047" />
+    </state>
+    <state width="1379" height="334" key="GridCell.Tab.0.center/0.23.2048.1047@0.23.2048.1047" timestamp="1576163979823" />
+    <state width="1379" height="334" key="GridCell.Tab.0.left" timestamp="1576163979823">
+      <screen x="0" y="23" width="2048" height="1047" />
+    </state>
+    <state width="1379" height="334" key="GridCell.Tab.0.left/0.23.2048.1047@0.23.2048.1047" timestamp="1576163979823" />
+    <state width="1379" height="334" key="GridCell.Tab.0.right" timestamp="1576163979824">
+      <screen x="0" y="23" width="2048" height="1047" />
+    </state>
+    <state width="1379" height="334" key="GridCell.Tab.0.right/0.23.2048.1047@0.23.2048.1047" timestamp="1576163979824" />
+    <state width="1379" height="334" key="GridCell.Tab.1.bottom" timestamp="1576163979825">
+      <screen x="0" y="23" width="2048" height="1047" />
+    </state>
+    <state width="1379" height="334" key="GridCell.Tab.1.bottom/0.23.2048.1047@0.23.2048.1047" timestamp="1576163979825" />
+    <state width="1379" height="334" key="GridCell.Tab.1.center" timestamp="1576163979824">
+      <screen x="0" y="23" width="2048" height="1047" />
+    </state>
+    <state width="1379" height="334" key="GridCell.Tab.1.center/0.23.2048.1047@0.23.2048.1047" timestamp="1576163979824" />
+    <state width="1379" height="334" key="GridCell.Tab.1.left" timestamp="1576163979824">
+      <screen x="0" y="23" width="2048" height="1047" />
+    </state>
+    <state width="1379" height="334" key="GridCell.Tab.1.left/0.23.2048.1047@0.23.2048.1047" timestamp="1576163979824" />
+    <state width="1379" height="334" key="GridCell.Tab.1.right" timestamp="1576163979825">
+      <screen x="0" y="23" width="2048" height="1047" />
+    </state>
+    <state width="1379" height="334" key="GridCell.Tab.1.right/0.23.2048.1047@0.23.2048.1047" timestamp="1576163979825" />
+    <state width="1379" height="334" key="GridCell.Tab.2.bottom" timestamp="1576163979825">
+      <screen x="0" y="23" width="2048" height="1047" />
+    </state>
+    <state width="1379" height="334" key="GridCell.Tab.2.bottom/0.23.2048.1047@0.23.2048.1047" timestamp="1576163979825" />
+    <state width="1379" height="334" key="GridCell.Tab.2.center" timestamp="1576163979825">
+      <screen x="0" y="23" width="2048" height="1047" />
+    </state>
+    <state width="1379" height="334" key="GridCell.Tab.2.center/0.23.2048.1047@0.23.2048.1047" timestamp="1576163979825" />
+    <state width="1379" height="334" key="GridCell.Tab.2.left" timestamp="1576163979825">
+      <screen x="0" y="23" width="2048" height="1047" />
+    </state>
+    <state width="1379" height="334" key="GridCell.Tab.2.left/0.23.2048.1047@0.23.2048.1047" timestamp="1576163979825" />
+    <state width="1379" height="334" key="GridCell.Tab.2.right" timestamp="1576163979825">
+      <screen x="0" y="23" width="2048" height="1047" />
+    </state>
+    <state width="1379" height="334" key="GridCell.Tab.2.right/0.23.2048.1047@0.23.2048.1047" timestamp="1576163979825" />
+    <state width="1379" height="334" key="GridCell.Tab.3.bottom" timestamp="1576163979826">
+      <screen x="0" y="23" width="2048" height="1047" />
+    </state>
+    <state width="1379" height="334" key="GridCell.Tab.3.bottom/0.23.2048.1047@0.23.2048.1047" timestamp="1576163979826" />
+    <state width="1379" height="334" key="GridCell.Tab.3.center" timestamp="1576163979826">
+      <screen x="0" y="23" width="2048" height="1047" />
+    </state>
+    <state width="1379" height="334" key="GridCell.Tab.3.center/0.23.2048.1047@0.23.2048.1047" timestamp="1576163979826" />
+    <state width="1379" height="334" key="GridCell.Tab.3.left" timestamp="1576163979826">
+      <screen x="0" y="23" width="2048" height="1047" />
+    </state>
+    <state width="1379" height="334" key="GridCell.Tab.3.left/0.23.2048.1047@0.23.2048.1047" timestamp="1576163979826" />
+    <state width="1379" height="334" key="GridCell.Tab.3.right" timestamp="1576163979826">
+      <screen x="0" y="23" width="2048" height="1047" />
+    </state>
+    <state width="1379" height="334" key="GridCell.Tab.3.right/0.23.2048.1047@0.23.2048.1047" timestamp="1576163979826" />
   </component>
 </project>
