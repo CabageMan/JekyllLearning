@@ -7,8 +7,8 @@
 	],
 	"sourcesContent": [
 		"@import \"main\";",
-		"// Variables\n$currentLinkColor: darkcyan;\n$topMenuBackgroundColor: red;\n\n.top-menu {\n  background: $topMenuBackgroundColor;\n  color: $topMenuBackgroundColor;\n  font-size: 16px;\n  padding: 19px 0;\n}\n\n.current {\n  color: $currentLinkColor;\n  text-decoration: none;\n}"
+		"// Variables\n$currentLinkColor: cyan;\n$usualLinkColor: green;\n$navigationBarColor: #ddd;\n\n.navigation-bar {\n  overflow: hidden;\n  background-color: $navigationBarColor;\n}\n\n.navigation-bar a.left {\n  float: left;\n}\n\n.navigation-bar a.right {\n  float: right;\n}\n\n.navigation-bar a.current {\n  color: $currentLinkColor;\n  background-color: $usualLinkColor;\n  text-align: center;\n  padding: 14px 16px;\n  text-decoration: none;\n  font-size: 17px;\n}\n\n.navigation-bar a.usual {\n  color: #f2f2f2;\n  text-align: center;\n  padding: 14px 16px;\n  text-decoration: none;\n  font-size: 17px;\n}\n\n.navigation-bar a.usual:hover {\n  background-color: #555;\n  color: white;\n}\n\n"
 	],
 	"names": [],
-	"mappings": "ACIA,AAAA,SAAS,CAAC,EACR,UAAU,EAHa,GAAG,EAI1B,KAAK,EAJkB,GAAG,EAK1B,SAAS,EAAE,IAAI,EACf,OAAO,EAAE,MAAM,GAChB;;AAED,AAAA,QAAQ,CAAC,EACP,KAAK,EAXY,QAAQ,EAYzB,eAAe,EAAE,IAAI,GACtB"
+	"mappings": "ACKA,AAAA,eAAe,CAAC,EACd,QAAQ,EAAE,MAAM,EAChB,gBAAgB,EAJG,IAAI,GAKxB;;AAED,AAAA,eAAe,CAAC,CAAC,AAAA,KAAK,CAAC,EACrB,KAAK,EAAE,IAAI,GACZ;;AAED,AAAA,eAAe,CAAC,CAAC,AAAA,MAAM,CAAC,EACtB,KAAK,EAAE,KAAK,GACb;;AAED,AAAA,eAAe,CAAC,CAAC,AAAA,QAAQ,CAAC,EACxB,KAAK,EAlBY,IAAI,EAmBrB,gBAAgB,EAlBD,KAAK,EAmBpB,UAAU,EAAE,MAAM,EAClB,OAAO,EAAE,SAAS,EAClB,eAAe,EAAE,IAAI,EACrB,SAAS,EAAE,IAAI,GAChB;;AAED,AAAA,eAAe,CAAC,CAAC,AAAA,MAAM,CAAC,EACtB,KAAK,EAAE,OAAO,EACd,UAAU,EAAE,MAAM,EAClB,OAAO,EAAE,SAAS,EAClB,eAAe,EAAE,IAAI,EACrB,SAAS,EAAE,IAAI,GAChB;;AAED,AAAA,eAAe,CAAC,CAAC,AAAA,MAAM,AAAA,MAAM,CAAC,EAC5B,gBAAgB,EAAE,IAAI,EACtB,KAAK,EAAE,KAAK,GACb"
 }

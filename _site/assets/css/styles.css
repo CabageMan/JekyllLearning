@@ -1,5 +1,13 @@
-.top-menu { background: red; color: red; font-size: 16px; padding: 19px 0; }
+.navigation-bar { overflow: hidden; background-color: #ddd; }
 
-.current { color: darkcyan; text-decoration: none; }
+.navigation-bar a.left { float: left; }
+
+.navigation-bar a.right { float: right; }
+
+.navigation-bar a.current { color: cyan; background-color: green; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 17px; }
+
+.navigation-bar a.usual { color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 17px; }
+
+.navigation-bar a.usual:hover { background-color: #555; color: white; }
 
 /*# sourceMappingURL=styles.css.map */

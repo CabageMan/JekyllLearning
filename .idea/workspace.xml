@@ -2,45 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f63fcf6-37db-4263-8181-1f5c685438e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b1/f48a4b1482977a0a0d81295247073f524d636ce0e3bd2a941446750fff3765" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/d4/13b8c30d9c2f3461e2c2934ca6d4902c657118847bbc4b927205d52497ad43" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/apples/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/images/about.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/images/blog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/images/categories.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/images/envelope.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/images/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/images/staff.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/authors/jill/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/authors/ted/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/bananas/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/kiwifruit/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/about.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/categories.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/envelope.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/staff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b1/f48a4b1482977a0a0d81295247073f524d636ce0e3bd2a941446750fff3765" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f9/fa874a0672a39813a7f13f854a213ee08b98349a1e8e1e000ead983fba4f2a" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/navigation.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2019/12/09/kiwifruit.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2019/12/10/apples.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2019/12/11/bananas.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/apples/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/apples/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/assets/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/authors/jill.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/authors/ted.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/authors/jill/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/jill/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/authors/ted/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/ted/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/bananas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bananas/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/categories/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/contact/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/kiwifruit/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/kiwifruit/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/staff/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/staff/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +101,8 @@
       <workItem from="1576131483815" duration="170000" />
       <workItem from="1576135090782" duration="7144000" />
       <workItem from="1576217896836" duration="2155000" />
-      <workItem from="1576226398666" duration="4730000" />
+      <workItem from="1576226398666" duration="5100000" />
+      <workItem from="1576303693776" duration="16183000" />
     </task>
     <servers />
   </component>
