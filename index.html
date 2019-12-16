@@ -2,14 +2,18 @@
 title: Home
 ---
 
-<h1>{{ "Home" }}</h1>
-
-<p>{{ "Home sweet home" }}</p>
-
-<button>{{"Button"}}</button>
-
-<div class="social-links">
-    {% for item in site.data.socialLinks %}
-        <a href="{{ item.link }}" target="_blank" class="{{ item.class }}"></a>
-    {% endfor %}
-</div>
+<header class="image-background grayscale-min display-container" style="padding: 5px;">
+    <div class="display-left text-white" style="padding: 48px;">
+        <div>
+            <span class="large-title">Home</span>
+            <br>
+            <span class="middle-text">Home sweet home</span>
+            <p><a href="{{ site.data.navigation[4].link }}" class="button">Go to about</a></p>
+        </div>
+        <div class="social-links">
+            {% for item in site.data.socialLinks %}
+            <a href="{{ item.link }}" target="_blank" class="{{ item.class }}"></a>
+            {% endfor %}
+        </div>
+    </div>
+</header>

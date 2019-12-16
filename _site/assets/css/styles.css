@@ -10,11 +10,11 @@
 
 .navigation-bar a.usual:hover { background-color: #555; color: white; }
 
-.social-links { padding: 15px; }
+.social-links { padding: 15px 0 15px 0; }
 
-.social-links a { padding: 16px; background-size: 38px; background-repeat: no-repeat; background-position: center; }
+.social-links a { padding: 16px 16px 0 16px; background-size: 38px; background-repeat: no-repeat; background-position: center; }
 
-.social-links a:hover { background-position: top; }
+.social-links a:hover { opacity: 0.5; }
 
 .social-links a.facebook { background-image: url("/assets/images/icons/facebookColor.png"); }
 
@@ -27,5 +27,23 @@
 .social-links a.twitter { background-image: url("/assets/images/icons/twitterColor.png"); }
 
 .social-links a.linkedin { background-image: url("/assets/images/icons/linkedinColor.png"); }
+
+.image-background { background-image: url("/assets/images/mac.jpg"); background-position: center; background-size: cover; min-height: 100%; height: 800px; }
+
+.text-white { color: #fff; }
+
+.display-left { position: absolute; top: 50%; left: 0%; transform: translate(0%, -50%); }
+
+.display-container { position: relative; }
+
+.grayscale-min { filter: grayscale(50%); }
+
+.button { font-size: 18px !important; display: inline-block; vertical-align: middle; overflow: hidden; text-decoration: none; text-align: center; cursor: pointer; white-space: nowrap; color: #000; background-color: #fff; opacity: 0.60; margin-top: 16px; padding: 12px 24px; }
+
+.large-title { font-size: 36px !important; }
+
+.middle-text { font-size: 18px !important; }
+
+.button:hover { opacity: 1.0; }
 
 /*# sourceMappingURL=styles.css.map */

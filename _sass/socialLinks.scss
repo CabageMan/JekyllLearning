@@ -1,17 +1,17 @@
 // Variables
 
 .social-links {
-  padding: 15px;
+  padding: 15px 0 15px 0;
 
   a {
-    padding: 16px;
+    padding: 16px 16px 0 16px;
     background-size: 38px;
     background-repeat: no-repeat;
     background-position: center;
   }
 
   a:hover {
-    background-position: top;
+    opacity: 0.5;
   }
 
   a.facebook {
