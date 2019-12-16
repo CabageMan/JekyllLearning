@@ -2,17 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f63fcf6-37db-4263-8181-1f5c685438e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/socialLinks.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/navigationBar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/socialLinks.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/blog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/facebookBlack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/facebookColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/instagramBlack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/instagramColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/linkedinBlack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/linkedinColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/pinterestBlack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/pinterestColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/snapchatBlack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/snapchatColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/twitterBlack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/twitterColor.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b1/f48a4b1482977a0a0d81295247073f524d636ce0e3bd2a941446750fff3765" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f9/fa874a0672a39813a7f13f854a213ee08b98349a1e8e1e000ead983fba4f2a" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/navigation.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/apples/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/apples/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/assets/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/styles.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/images/about.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/images/blog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/images/categories.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/images/envelope.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/images/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/images/staff.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/authors/jill/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/jill/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/authors/ted/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/ted/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/bananas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bananas/index.html" afterDir="false" />
@@ -22,6 +41,12 @@
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/kiwifruit/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/kiwifruit/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/staff/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/staff/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/about.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/images/icons/about.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/blog.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/images/icons/blog.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/categories.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/icons/categories.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/envelope.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/icons/envelope.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/home.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/icons/home.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/staff.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/icons/staff.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +83,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/icons" />
       <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/pages" />
     </key>
@@ -102,7 +128,8 @@
       <workItem from="1576135090782" duration="7144000" />
       <workItem from="1576217896836" duration="2155000" />
       <workItem from="1576226398666" duration="5100000" />
-      <workItem from="1576303693776" duration="16183000" />
+      <workItem from="1576303693776" duration="16259000" />
+      <workItem from="1576477716751" duration="7214000" />
     </task>
     <servers />
   </component>
@@ -113,10 +140,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1490" y="690" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576054139350">
+    <state x="1475" y="690" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576481559963">
       <screen x="0" y="23" width="2048" height="1047" />
     </state>
-    <state x="1490" y="690" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2048.1047@0.23.2048.1047" timestamp="1576054139350" />
+    <state x="1475" y="690" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2048.1047@0.23.2048.1047" timestamp="1576481559963" />
     <state width="1379" height="334" key="GridCell.Tab.0.bottom" timestamp="1576163979824">
       <screen x="0" y="23" width="2048" height="1047" />
     </state>

@@ -7,3 +7,9 @@ title: Home
 <p>{{ "Home sweet home" }}</p>
 
 <button>{{"Button"}}</button>
+
+<div class="social-links">
+    {% for item in site.data.socialLinks %}
+        <a href="{{ item.link }}" target="_blank" class="{{ item.class }}"></a>
+    {% endfor %}
+</div>

@@ -1,0 +1,39 @@
+// Variables
+$currentLinkColor: cyan;
+$usualLinkColor: green;
+$navigationBarColor: #ddd;
+
+.navigation-bar {
+  overflow: hidden;
+  background-color: $navigationBarColor;
+
+  a.left {
+    float: left;
+  }
+
+  a.right {
+    float: right;
+  }
+
+  a.current {
+    color: $currentLinkColor;
+    background-color: $usualLinkColor;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  a.usual {
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  a.usual:hover {
+    background-color: #555;
+    color: white;
+  }
+}

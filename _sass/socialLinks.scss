@@ -1,0 +1,40 @@
+// Variables
+
+.social-links {
+  padding: 15px;
+
+  a {
+    padding: 16px;
+    background-size: 38px;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  a:hover {
+    background-position: top;
+  }
+
+  a.facebook {
+    background-image: url("/assets/images/icons/facebookColor.png");
+  }
+
+  a.instagram {
+    background-image: url("/assets/images/icons/instagramColor.png");
+  }
+
+  a.snapchat {
+    background-image: url("/assets/images/icons/snapchatColor.png");
+  }
+
+  a.pinterest {
+    background-image: url("/assets/images/icons/pinterestColor.png");
+  }
+
+  a.twitter {
+    background-image: url("/assets/images/icons/twitterColor.png");
+  }
+
+  a.linkedin {
+    background-image: url("/assets/images/icons/linkedinColor.png");
+  }
+}

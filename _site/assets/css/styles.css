@@ -6,8 +6,26 @@
 
 .navigation-bar a.current { color: cyan; background-color: green; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 17px; }
 
-.navigation-bar a.usual { color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 17px; }
+.navigation-bar a.usual { color: black; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 17px; }
 
 .navigation-bar a.usual:hover { background-color: #555; color: white; }
+
+.social-links { padding: 15px; }
+
+.social-links a { padding: 16px; background-size: 38px; background-repeat: no-repeat; background-position: center; }
+
+.social-links a:hover { background-position: top; }
+
+.social-links a.facebook { background-image: url("/assets/images/icons/facebookColor.png"); }
+
+.social-links a.instagram { background-image: url("/assets/images/icons/instagramColor.png"); }
+
+.social-links a.snapchat { background-image: url("/assets/images/icons/snapchatColor.png"); }
+
+.social-links a.pinterest { background-image: url("/assets/images/icons/pinterestColor.png"); }
+
+.social-links a.twitter { background-image: url("/assets/images/icons/twitterColor.png"); }
+
+.social-links a.linkedin { background-image: url("/assets/images/icons/linkedinColor.png"); }
 
 /*# sourceMappingURL=styles.css.map */
