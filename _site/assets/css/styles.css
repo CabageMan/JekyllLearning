@@ -28,22 +28,22 @@
 
 .social-links a.linkedin { background-image: url("/assets/images/icons/linkedinColor.png"); }
 
-.image-background { background-image: url("/assets/images/mac.jpg"); background-position: center; background-size: cover; min-height: 100%; height: 800px; }
+.image-background { position: relative; filter: grayscale(50%); background-image: url("/assets/images/mac.jpg"); background-position: center; background-repeat: no-repeat; background-size: cover; height: 100%; }
 
 .text-white { color: #fff; }
 
 .display-left { position: absolute; top: 50%; left: 0%; transform: translate(0%, -50%); }
 
-.display-container { position: relative; }
-
-.grayscale-min { filter: grayscale(50%); }
+.display-bottom-left { position: absolute; left: 0; bottom: 50px; }
 
 .button { font-size: 18px !important; display: inline-block; vertical-align: middle; overflow: hidden; text-decoration: none; text-align: center; cursor: pointer; white-space: nowrap; color: #000; background-color: #fff; opacity: 0.60; margin-top: 16px; padding: 12px 24px; }
+
+.button:hover { opacity: 1.0; }
+
+.extra-large-title { font-size: 64px !important; }
 
 .large-title { font-size: 36px !important; }
 
 .middle-text { font-size: 18px !important; }
-
-.button:hover { opacity: 1.0; }
 
 /*# sourceMappingURL=styles.css.map */

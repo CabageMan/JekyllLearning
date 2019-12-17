@@ -1,6 +1,10 @@
 @import "navigationBar";
 @import "socialLinks";
 
+@mixin extra-large-text {
+  font-size: 64px!important;
+}
+
 @mixin large-text {
   font-size: 36px!important;
 }
@@ -9,12 +13,22 @@
   font-size: 18px!important;
 }
 
+@mixin display-container {
+  position: relative;
+}
+
+@mixin grayscale-min {
+  filter: grayscale(50%);
+}
+
 .image-background {
+  @include display-container
+  @include grayscale-min
   background-image: url("/assets/images/mac.jpg");
   background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
-  min-height: 100%;
-  height: 800px;
+  height: 100%;
 }
 
 .text-white {
@@ -28,12 +42,10 @@
   transform: translate(0%,-50%);
 }
 
-.display-container {
-  position: relative;
-}
-
-.grayscale-min {
-  filter: grayscale(50%);
+.display-bottom-left {
+  position: absolute;
+  left: 0;
+  bottom: 50px;
 }
 
 .button {
@@ -54,14 +66,18 @@
   padding: 12px 24px;
 }
 
+.button:hover {
+  opacity: 1.0;
+}
+
+.extra-large-title {
+  @include extra-large-text;
+}
+
 .large-title {
   @include large-text;
 }
 
 .middle-text {
   @include  middle-text;
-}
-
-.button:hover {
-  opacity: 1.0;
 }

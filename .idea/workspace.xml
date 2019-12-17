@@ -2,14 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f63fcf6-37db-4263-8181-1f5c685438e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_site/assets/images/mac.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/mac.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/defaultLayout.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/defaultLayout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/socialLinks.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/socialLinks.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/apples/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/apples/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/assets/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/styles.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/authors/jill/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/jill/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/authors/ted/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/ted/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/bananas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bananas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/contact/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/kiwifruit/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/kiwifruit/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/staff/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/staff/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +100,8 @@
       <workItem from="1576217896836" duration="2155000" />
       <workItem from="1576226398666" duration="5100000" />
       <workItem from="1576303693776" duration="16259000" />
-      <workItem from="1576477716751" duration="13329000" />
+      <workItem from="1576477716751" duration="13419000" />
+      <workItem from="1576562965867" duration="1500000" />
     </task>
     <servers />
   </component>
