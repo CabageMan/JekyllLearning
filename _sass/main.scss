@@ -1,5 +1,7 @@
 @import "navigationBar";
 @import "socialLinks";
+@import "icons";
+@import "inputs";
 
 @mixin extra-large-text {
   font-size: 64px!important;
@@ -21,14 +23,20 @@
   filter: grayscale(50%);
 }
 
-.image-background {
-  @include display-container
-  @include grayscale-min
+.home-image-background {
+  @include display-container;
+  @include grayscale-min;
   background-image: url("/assets/images/mac.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
+}
+
+.contact-container {
+  color:  #000;
+  background-color: #f1f1f1;
+  padding: 128px 16px;
 }
 
 .text-white {
@@ -38,7 +46,7 @@
 .display-left {
   position: absolute;
   top: 50%;
-  left: 0%;
+  left: 0;
   transform: translate(0%,-50%);
 }
 
@@ -66,8 +74,18 @@
   padding: 12px 24px;
 }
 
+.black-button {
+  color: #fff!important;
+  background-color: #000!important;
+  opacity: 1.0!important;
+}
+
 .button:hover {
   opacity: 1.0;
+}
+
+.text-center {
+  text-align: center;
 }
 
 .extra-large-title {
@@ -78,6 +96,8 @@
   @include large-text;
 }
 
-.middle-text {
+.middle-title {
   @include  middle-text;
 }
+
+// Buttons

@@ -1,0 +1,26 @@
+.icon {
+  margin-top: 50px;
+
+  p:before {
+    content: "";
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 0 8px 0 0;
+  }
+
+  p.geo-marker:before {
+    background-image: url("/assets/images/icons/geoMarker.png");
+  }
+
+  p.phone:before {
+    background-image: url("/assets/images/icons/phone.png");
+  }
+
+  p.envelope:before {
+    background-image: url("/assets/images/icons/envelope.png");
+  }
+}

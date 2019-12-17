@@ -28,22 +28,40 @@
 
 .social-links a.linkedin { background-image: url("/assets/images/icons/linkedinColor.png"); }
 
-.image-background { position: relative; filter: grayscale(50%); background-image: url("/assets/images/mac.jpg"); background-position: center; background-repeat: no-repeat; background-size: cover; height: 100%; }
+.icon { margin-top: 50px; }
+
+.icon p:before { content: ""; background-size: 20px; background-repeat: no-repeat; background-position: center; width: 20px; height: 20px; float: left; margin: 0 8px 0 0; }
+
+.icon p.geo-marker:before { background-image: url("/assets/images/icons/geoMarker.png"); }
+
+.icon p.phone:before { background-image: url("/assets/images/icons/phone.png"); }
+
+.icon p.envelope:before { background-image: url("/assets/images/icons/envelope.png"); }
+
+.text-input input { margin: 0; padding: 8px; display: block; width: 100%; border: 1px solid #ccc; box-sizing: border-box; }
+
+.home-image-background { position: relative; filter: grayscale(50%); background-image: url("/assets/images/mac.jpg"); background-position: center; background-repeat: no-repeat; background-size: cover; height: 100%; }
+
+.contact-container { color: #000; background-color: #f1f1f1; padding: 128px 16px; }
 
 .text-white { color: #fff; }
 
-.display-left { position: absolute; top: 50%; left: 0%; transform: translate(0%, -50%); }
+.display-left { position: absolute; top: 50%; left: 0; transform: translate(0%, -50%); }
 
 .display-bottom-left { position: absolute; left: 0; bottom: 50px; }
 
 .button { font-size: 18px !important; display: inline-block; vertical-align: middle; overflow: hidden; text-decoration: none; text-align: center; cursor: pointer; white-space: nowrap; color: #000; background-color: #fff; opacity: 0.60; margin-top: 16px; padding: 12px 24px; }
 
+.black-button { color: #fff !important; background-color: #000 !important; opacity: 1 !important; }
+
 .button:hover { opacity: 1.0; }
+
+.text-center { text-align: center; }
 
 .extra-large-title { font-size: 64px !important; }
 
 .large-title { font-size: 36px !important; }
 
-.middle-text { font-size: 18px !important; }
+.middle-title { font-size: 18px !important; }
 
 /*# sourceMappingURL=styles.css.map */
