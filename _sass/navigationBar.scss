@@ -30,12 +30,11 @@ $navigationBarColor: #ddd;
   }
 
   a.usual {
-    color: black;
     @include item-layout
-  }
-
-  a.usual:hover {
-    background-color: $usualLinkHoverColor;
-    color: white;
+    color: black;
+    &:hover {
+      background-color: $usualLinkHoverColor;
+      color: white;
+    }
   }
 }

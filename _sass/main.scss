@@ -3,6 +3,19 @@
 @import "icons";
 @import "inputs";
 
+// Example
+@mixin prefix($property, $value, $prefixes) {
+  @each $prefix in $prefixes {
+    -#{$prefix}-#{$property}: $value;
+  }
+  #{$property}: $value;
+}
+
+.gray {
+  @include prefix(filter, grayscale(50%), moz webkit);
+}
+// Example
+
 @mixin extra-large-text {
   font-size: 64px!important;
 }
@@ -43,8 +56,10 @@
   display: inline-block;
   vertical-align: middle;
   overflow: hidden;
-  text-decoration: none;
-  text-align: center;
+  text: {
+    decoration: none;
+    align: center;
+  }
   cursor: pointer;
   white-space: nowrap;
 
@@ -54,20 +69,22 @@
 
   margin-top: 16px;
   padding: 12px 24px;
-}
 
-.button:hover {
-  opacity: 1.0;
+  &:hover {
+    opacity: 1.0;
+  }
 }
 
 // Images
 .home-image-background {
   position: relative;
   filter: grayscale(50%);
-  background-image: url("/assets/images/mac.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: {
+    image: url("/assets/images/mac.jpg");
+    position: center;
+    repeat: no-repeat;
+    size: cover;
+  }
   height: 100%;
 }
 

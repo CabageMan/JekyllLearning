@@ -72,16 +72,21 @@
         <p class="phone"> Phone: +00 151515</p>
         <p class="envelope"> Email: mail@mail.com</p>
         <br>
-        <form class="text-input">
-            <p><input type="text" placeholder="Name" required name="Name"></p>
-            <p><input type="text" placeholder="Email" required name="Email"></p>
-            <p><input type="text" placeholder="Subject" required name="Subject"></p>
-            <p><input type="text" placeholder="Message" required name="Message"></p>
+        <form class="text-input" name="contactForm" onsubmit="validateContactForm()">
+            <p><input type="text" placeholder="Name" name="name"></p>
+            <p><input type="text" placeholder="Email" name="email"></p>
+            <p><input type="text" placeholder="Subject"></p>
+            <p><input type="text" placeholder="Message"></p>
+<!--            <p><input type="text" placeholder="Name" required name="Name"></p>-->
+<!--            <p><input type="text" placeholder="Email" required name="Email"></p>-->
+<!--            <p><input type="text" placeholder="Subject" required name="Subject"></p>-->
+<!--            <p><input type="text" placeholder="Message" required name="Message"></p>-->
             <button class="button" type="submit"><i class="button-icon button-icon-paper-plane"></i> SEND MESSAGE</button>
         </form>
         <!-- Image of location -->
         <img src="/assets/images/map.jpg" class="map-image">
     </div>
 </div>
+<script src="/assets/js/handlers.js"></script>
     </body>
 </html>

@@ -5,13 +5,14 @@
 
   a {
     padding: 16px 16px 0 16px;
-    background-size: 38px;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-
-  a:hover {
-    opacity: 0.5;
+    background: {
+      size: 38px;
+      repeat: no-repeat;
+      position: center;
+    }
+    &:hover {
+      opacity: 0.5;
+    }
   }
 
   a.facebook {

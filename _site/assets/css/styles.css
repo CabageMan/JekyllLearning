@@ -6,7 +6,7 @@
 
 .navigation-bar a.current { color: cyan; background-color: green; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 17px; }
 
-.navigation-bar a.usual { color: black; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 17px; }
+.navigation-bar a.usual { text-align: center; padding: 14px 16px; text-decoration: none; font-size: 17px; color: black; }
 
 .navigation-bar a.usual:hover { background-color: #555; color: white; }
 
@@ -43,6 +43,8 @@
 .button-icon-paper-plane:before { background-image: url("/assets/images/icons/paperPlane.png"); }
 
 .text-input input { margin: 0; padding: 8px; display: block; width: 100%; border: 1px solid #ccc; box-sizing: border-box; }
+
+.gray { -moz-filter: grayscale(50%); -webkit-filter: grayscale(50%); filter: grayscale(50%); }
 
 .contact-container { color: #000; background-color: #f1f1f1; padding: 128px 16px; }
 

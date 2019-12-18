@@ -1,8 +1,10 @@
 @mixin icon-before {
   content: "";
-  background-size: 20px;
-  background-repeat: no-repeat;
-  background-position: center;
+  background: {
+    size: 20px;
+    repeat: no-repeat;
+    position: center;
+  }
   width: 20px;
   height: 20px;
   float: left;
