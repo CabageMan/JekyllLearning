@@ -1,7 +1,15 @@
 // Variables
 $currentLinkColor: cyan;
 $usualLinkColor: green;
+$usualLinkHoverColor: #555;
 $navigationBarColor: #ddd;
+
+@mixin item-layout {
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
 
 .navigation-bar {
   overflow: hidden;
@@ -18,22 +26,16 @@ $navigationBarColor: #ddd;
   a.current {
     color: $currentLinkColor;
     background-color: $usualLinkColor;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
+    @include item-layout
   }
 
   a.usual {
     color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
+    @include item-layout
   }
 
   a.usual:hover {
-    background-color: #555;
+    background-color: $usualLinkHoverColor;
     color: white;
   }
 }
