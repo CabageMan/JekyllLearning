@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f63fcf6-37db-4263-8181-1f5c685438e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_site/assets/js/handlers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/handlers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/icons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/navigationBar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/navigationBar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/socialLinks.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/socialLinks.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/styles.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/handlers.js" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/js/handlers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/contact/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/handlers.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/handlers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +92,9 @@
       <workItem from="1576303693776" duration="16259000" />
       <workItem from="1576477716751" duration="13419000" />
       <workItem from="1576562965867" duration="11786000" />
-      <workItem from="1576656571401" duration="8522000" />
+      <workItem from="1576656571401" duration="8670000" />
+      <workItem from="1576736099367" duration="130000" />
+      <workItem from="1576736630003" duration="4447000" />
     </task>
     <servers />
   </component>
