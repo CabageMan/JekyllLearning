@@ -3,6 +3,9 @@
 @import "icons";
 @import "inputs";
 
+// Variables
+$quarterWidth: (100% / 4) - 2%;
+
 // Example
 @mixin prefix($property, $value, $prefixes) {
   @each $prefix in $prefixes {
@@ -36,6 +39,21 @@
   padding: 128px 16px;
 }
 
+.about-container {
+  padding: 128px 16px;
+  &:before {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+.quarter {
+  padding: 0 8px;
+  width: $quarterWidth;
+  float: left;
+}
+
 // Displaying
 .display-left {
   position: absolute;
@@ -48,6 +66,11 @@
   position: absolute;
   left: 0;
   bottom: 50px;
+}
+
+.row-padding {
+  padding: 0 8px;
+  margin-top: 64px;
 }
 
 // Buttons

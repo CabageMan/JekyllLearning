@@ -1,0 +1,18 @@
+---
+title: About
+permalink: /about/
+---
+
+<div class="about-container">
+    <h3 class="text-center">About this project</h3>
+    <p class="text-center middle-title">Key features of this project</p>
+    <div class="row-padding text-center">
+        {% for item in site.data.about %}
+            <div class="quarter">
+                <i class="{{ item.class }}"></i>
+                <p class="middle-title">{{ item.title }}</p>
+                <p>{{ item.content }}</p>
+            </div>
+        {% endfor %}
+    </div>
+</div>

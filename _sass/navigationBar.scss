@@ -26,11 +26,11 @@ $navigationBarColor: #ddd;
   a.current {
     color: $currentLinkColor;
     background-color: $usualLinkColor;
-    @include item-layout
+    @include item-layout;
   }
 
   a.usual {
-    @include item-layout
+    @include item-layout;
     color: black;
     &:hover {
       background-color: $usualLinkHoverColor;
