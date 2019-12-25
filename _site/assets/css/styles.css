@@ -62,7 +62,9 @@
 
 .about-card { float: left; width: 25%; padding: 25px; }
 
-.author-card { float: left; width: 23%; margin-right: 15px; margin-top: 15px; padding: 10px; border: 1px solid #BFBFBF; background-color: white; box-shadow: 10px 10px 5px #aaaaaa; }
+.author-container { float: left; width: 33.3333%; margin-top: 15px; }
+
+.author-card { margin: 15px; padding: 15px; border: 1px solid #BFBFBF; background-color: white; box-shadow: 10px 10px 5px #aaaaaa; }
 
 .display-left { position: absolute; top: 50%; left: 0; transform: translate(0%, -50%); }
 
@@ -92,6 +94,8 @@
 
 @media screen and (max-width: 600px) { .about-card { width: 100%; } }
 
-@media screen and (max-width: 1500px) { .author-card { width: 100%; } }
+@media screen and (max-width: 1500px) { .author-container { width: 50%; } }
+
+@media screen and (max-width: 900px) { .author-container { width: 100%; } }
 
 /*# sourceMappingURL=styles.css.map */

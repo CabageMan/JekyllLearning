@@ -48,12 +48,18 @@ $quarterWidth: (100% / 4);
   padding: 25px;
 }
 
-.author-card {
+.author-container {
   float: left;
-  width: 19%;
-  margin-right: 15px;
+  width: 33.3333%;
   margin-top: 15px;
-  padding: 10px;
+}
+
+.author-card {
+  //float: left;
+  //width: 50%;
+  margin: 15px;
+  //margin-top: 15px;
+  padding: 15px;
   border: 1px solid #BFBFBF;
   background-color: white;
   box-shadow: 10px 10px 5px #aaaaaa;
@@ -161,7 +167,13 @@ $quarterWidth: (100% / 4);
 }
 
 @media screen and (max-width: 1500px) {
-  .author-card {
+  .author-container {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .author-container {
     width: 100%;
   }
 }
