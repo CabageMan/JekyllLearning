@@ -5,6 +5,8 @@ document.getElementById("submitButton").addEventListener("click", function(event
     validateContactForm();
 });
 
+// Validation
+
 function validateContactForm() {
     let nameValue = document.forms["contactForm"]["name"].value;
     let emailValue = document.forms["contactForm"]["email"].value;
@@ -28,7 +30,9 @@ function validateContactForm() {
     }
 }
 
-// Helpers
+
+
+// Validation Helpers
 function isValid(str) {
     return (!isEmpty(str) && !isBlank(str) && !hasOnlyWhiteSpaces(str));
 }

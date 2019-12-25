@@ -4,7 +4,7 @@
 @import "inputs";
 
 // Variables
-$quarterWidth: (100% / 4) - 2%;
+$quarterWidth: (100% / 4);
 
 // Example
 @mixin prefix($property, $value, $prefixes) {
@@ -31,27 +31,32 @@ $quarterWidth: (100% / 4) - 2%;
   font-size: 18px!important;
 }
 
+* {
+  box-sizing: border-box;
+}
 
 // Containers
-.contact-container {
+.page-container {
   color:  #000;
   background-color: #f1f1f1;
   padding: 128px 16px;
 }
 
-.about-container {
-  padding: 128px 16px;
-  &:before {
-    content: "";
-    display: table;
-    clear: both;
-  }
+.about-card {
+  float: left;
+  width: 25%;
+  padding: 25px;
 }
 
-.quarter {
-  padding: 0 8px;
-  width: $quarterWidth;
+.author-card {
   float: left;
+  width: 19%;
+  margin-right: 15px;
+  margin-top: 15px;
+  padding: 10px;
+  border: 1px solid #BFBFBF;
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
 }
 
 // Displaying
@@ -68,7 +73,10 @@ $quarterWidth: (100% / 4) - 2%;
   bottom: 50px;
 }
 
-.row-padding {
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
   padding: 0 8px;
   margin-top: 64px;
 }
@@ -138,4 +146,22 @@ $quarterWidth: (100% / 4) - 2%;
 
 .middle-title {
   @include  middle-text;
+}
+
+@media screen and (max-width: 900px) {
+  .about-card {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .about-card {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1500px) {
+  .author-card {
+    width: 100%;
+  }
 }

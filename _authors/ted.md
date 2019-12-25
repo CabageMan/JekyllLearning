@@ -1,7 +1,8 @@
 ---
-short_name: ted
+short_name: Ted
 name: Ted Doe
 position: Writer
+gender: male
 ---
 
-Tad has been eating fruit since he was baby.
+Ted has been eating fruit since he was baby.

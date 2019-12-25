@@ -56,19 +56,19 @@
 
 .gray { -moz-filter: grayscale(50%); -webkit-filter: grayscale(50%); filter: grayscale(50%); }
 
-.contact-container { color: #000; background-color: #f1f1f1; padding: 128px 16px; }
+* { box-sizing: border-box; }
 
-.about-container { padding: 128px 16px; }
+.page-container { color: #000; background-color: #f1f1f1; padding: 128px 16px; }
 
-.about-container:before { content: ""; display: table; clear: both; }
+.about-card { float: left; width: 25%; padding: 25px; }
 
-.quarter { padding: 0 8px; width: 23%; float: left; }
+.author-card { float: left; width: 23%; margin-right: 15px; margin-top: 15px; padding: 10px; border: 1px solid #BFBFBF; background-color: white; box-shadow: 10px 10px 5px #aaaaaa; }
 
 .display-left { position: absolute; top: 50%; left: 0; transform: translate(0%, -50%); }
 
 .display-bottom-left { position: absolute; left: 0; bottom: 50px; }
 
-.row-padding { padding: 0 8px; margin-top: 64px; }
+.row:after { content: ""; display: table; clear: both; padding: 0 8px; margin-top: 64px; }
 
 .button { font-size: 18px !important; display: inline-block; vertical-align: middle; overflow: hidden; text-decoration: none; text-align: center; cursor: pointer; white-space: nowrap; color: #000; background-color: #fff; opacity: 0.60; margin-top: 16px; padding: 12px 24px; }
 
@@ -87,5 +87,11 @@
 .large-title { font-size: 36px !important; }
 
 .middle-title { font-size: 18px !important; }
+
+@media screen and (max-width: 900px) { .about-card { width: 50%; } }
+
+@media screen and (max-width: 600px) { .about-card { width: 100%; } }
+
+@media screen and (max-width: 1500px) { .author-card { width: 100%; } }
 
 /*# sourceMappingURL=styles.css.map */

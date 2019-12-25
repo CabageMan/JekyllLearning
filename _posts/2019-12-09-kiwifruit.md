@@ -1,5 +1,5 @@
 ---
-author: ted
+author: Ted
 ---
 
 ![My helpful screenshot](/assets/images/Kiwis.jpg)
