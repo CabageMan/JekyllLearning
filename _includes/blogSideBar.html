@@ -1,0 +1,7 @@
+<nav class="sidebar">
+    <h2><b>Latest Posts</b></h2>
+    {% for post in site.posts %}
+        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+<!--        <p>{{ post.excerpt }}</p>-->
+    {% endfor %}
+</nav>
