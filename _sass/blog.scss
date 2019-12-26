@@ -12,6 +12,10 @@ $sideBarWidth: 160px;
   background-color: yellowgreen;
   padding-top: 20px;
 
+  h2 {
+    margin-left: 13px;
+  }
+
   a {
     padding: 6px 8px 6px 16px;
     text-decoration: none;
@@ -29,4 +33,31 @@ $sideBarWidth: 160px;
   margin-left: $sideBarWidth;
   font-size: 28px;
   padding: 0px 10px;
+}
+
+.post-info {
+  margin-left: 13px;
+}
+
+.author-block {
+  text-align: left;
+  padding: 3px;
+  display: inline-block;
+
+  a {
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+    display: block;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.date-block {
+  text-align: left;
+  font-size: 18px;
+  color: #7C7C7C;
 }
