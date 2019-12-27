@@ -8,6 +8,7 @@ layout: defaultLayout
         <div class="author-block">
             {% assign author = site.authors | where: 'short_name', page.author | first %}
             {% if author %}
+                <img src="{{ author.avatar }}">
                 <a href="{{ author.url }}">{{ author.name }}</a>
             {% endif %}
         </div>

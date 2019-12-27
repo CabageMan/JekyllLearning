@@ -10,13 +10,7 @@ permalink: /staff/
         {% for author in site.authors %}
             <div class="author-container">
                 <div class="author-card">
-                    <img
-                        {% if author.gender == "male" %}
-                            src="/assets/images/icons/personMale.png"
-                        {% else %}
-                            src="/assets/images/icons/personFemale.png"
-                        {% endif %}
-                    >
+                    <img src="{{ author.avatar }}">
                     <h2><a href="{{ author.url }}">{{ author.name }}</a></h2>
                     <h3>{{ author.position }}</h3>
                     <p>{{ author.content | markdownify }}</p>

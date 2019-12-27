@@ -2,30 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f63fcf6-37db-4263-8181-1f5c685438e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/14/09b086f90d9b4cf9379ebfa50868b7a7800f1c6c607828a61b28d636befa5d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/1a/12195c7e1d37653352c37ba7bebcf6f8db16c81a5d6fd3835219266cd2ce14" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/51/ee799e98ec5273e6138f82ec43bb48ccb75e59a217ad3017e729524b21e1ae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/65/3c11e9723c08c5db567120520b747d17fb7fbd3b6b4c83c249e24d2c378d3e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/d5/43a8a413b5fb034ab84b51df8c5becf2150b86088b3580f292d6d0daceaf6e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-12-13-cabage.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-12-13-cucmber.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-12-13-potato.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/cabage/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/cucmber/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/potato/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_authors/jill.md" beforeDir="false" afterPath="$PROJECT_DIR$/_authors/jill.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_authors/john.md" beforeDir="false" afterPath="$PROJECT_DIR$/_authors/john.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_authors/johnny.md" beforeDir="false" afterPath="$PROJECT_DIR$/_authors/johnny.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_authors/ted.md" beforeDir="false" afterPath="$PROJECT_DIR$/_authors/ted.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_authors/willem.md" beforeDir="false" afterPath="$PROJECT_DIR$/_authors/willem.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/blog.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/blog.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/apples/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/apples/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/authors/john/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/john/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/authors/johnny/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/johnny/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/authors/willem/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/willem/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/bananas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bananas/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/cabage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/cabage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/cucmber/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/cucmber/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/kiwifruit/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/kiwifruit/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/potato/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/potato/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/staff/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/staff/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/staff.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/staff.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +110,8 @@
       <workItem from="1577168051147" duration="4352000" />
       <workItem from="1577273325312" duration="260000" />
       <workItem from="1577273605374" duration="6355000" />
-      <workItem from="1577340818526" duration="9569000" />
+      <workItem from="1577340818526" duration="9701000" />
+      <workItem from="1577433862617" duration="1058000" />
     </task>
     <servers />
   </component>
