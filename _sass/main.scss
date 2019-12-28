@@ -49,21 +49,67 @@ $quarterWidth: (100% / 4);
   padding: 25px;
 }
 
-.author-container {
-  float: left;
-  width: 33.3333%;
-  margin-top: 15px;
+.author {
+  &-container {
+    float: left;
+    width: 33.3333%;
+    margin-top: 15px;
+  }
+
+  &-card {
+    margin: 15px;
+    padding: 15px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+  }
+
+  &-page {
+    color:  #000;
+    background-color: #f1f1f1;
+    padding: 128px 16px;
+    max-width: 728px;
+    width: 100%;
+    height: 100%;
+    display: block;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  &-name {
+    margin: 4px 0 4px;
+    display: flex;
+    align-items: center;
+
+    h1 {
+      text-align: inherit;
+      font: {
+        weight: 600;
+        style: normal;
+        size: 36px;
+      }
+      line-height: 40px;
+      letter-spacing: -0.93px;
+      display: block;
+    }
+  }
+
+  &-position {
+    margin-bottom: 16px;
+    display: block;
+    text-align: left;
+  }
+
+  &-avatar {
+    float: right;
+    margin: 10px 0 10px 40px;
+    border-radius: 50%;
+  }
 }
 
-.author-card {
-  //float: left;
-  //width: 50%;
-  margin: 15px;
-  //margin-top: 15px;
-  padding: 15px;
-  border: 1px solid #BFBFBF;
-  background-color: white;
-  box-shadow: 10px 10px 5px #aaaaaa;
+.post-card {
+
 }
 
 // Displaying

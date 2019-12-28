@@ -4,13 +4,14 @@
     <list default="true" id="5f63fcf6-37db-4263-8181-1f5c685438e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/author.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/author.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/styles.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/authors/jill/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/jill/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/authors/john/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/john/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/authors/johnny/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/johnny/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/authors/ted/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/ted/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/authors/willem/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/willem/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +106,8 @@
       <workItem from="1577273325312" duration="260000" />
       <workItem from="1577273605374" duration="6355000" />
       <workItem from="1577340818526" duration="9701000" />
-      <workItem from="1577433862617" duration="2408000" />
+      <workItem from="1577433862617" duration="2909000" />
+      <workItem from="1577513666004" duration="3320000" />
     </task>
     <servers />
   </component>
@@ -194,10 +196,10 @@
       <screen x="0" y="23" width="2048" height="1047" />
     </state>
     <state width="1379" height="334" key="GridCell.Tab.3.right/0.23.2048.1047@0.23.2048.1047" timestamp="1576163979826" />
-    <state x="689" y="255" width="670" height="678" key="search.everywhere.popup" timestamp="1577342848352">
+    <state x="689" y="255" width="670" height="678" key="search.everywhere.popup" timestamp="1577518717091">
       <screen x="0" y="23" width="2048" height="1049" />
     </state>
     <state x="689" y="255" width="670" height="676" key="search.everywhere.popup/0.23.2048.1047@0.23.2048.1047" timestamp="1576845026761" />
-    <state x="689" y="255" width="670" height="678" key="search.everywhere.popup/0.23.2048.1049@0.23.2048.1049" timestamp="1577342848352" />
+    <state x="689" y="255" width="670" height="678" key="search.everywhere.popup/0.23.2048.1049@0.23.2048.1049" timestamp="1577518717091" />
   </component>
 </project>

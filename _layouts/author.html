@@ -1,12 +1,14 @@
 ---
 layout: defaultLayout
 ---
-<div class="page-container" style="height: 100%;">
+<div class="author-page">
     <div class="text-center">
-        <img src="{{ page.avatar }}">
-        <h1>{{ page.name }}</h1>
-        <h2>{{ page.position }}</h2>
-        <p class="middle-title">{{ content }}</p>
+        <img src="{{ page.avatar }}" class="author-avatar">
+        <div class="author-name"><h1>{{ page.name }}</h1></div>
+        <div class="author-position">
+            <h2>{{ page.position }}</h2>
+            <p class="middle-title">{{ content }}</p>
+        </div>
     </div>
     <div class="text-center">
         <h2>Posts</h2>
