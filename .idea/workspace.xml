@@ -3,15 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5f63fcf6-37db-4263-8181-1f5c685438e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/author.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/author.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/authors/jill/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/jill/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/authors/john/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/john/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/authors/johnny/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/johnny/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/authors/ted/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/ted/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/authors/willem/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/willem/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +99,15 @@
       <workItem from="1577273605374" duration="6355000" />
       <workItem from="1577340818526" duration="9701000" />
       <workItem from="1577433862617" duration="2909000" />
-      <workItem from="1577513666004" duration="3320000" />
+      <workItem from="1577513666004" duration="3322000" />
+      <workItem from="1578463176703" duration="119000" />
+      <workItem from="1578488447369" duration="16000" />
+      <workItem from="1578488481540" duration="6000" />
+      <workItem from="1578490006124" duration="486000" />
+      <workItem from="1578492598750" duration="1107000" />
+      <workItem from="1578494623964" duration="4000" />
+      <workItem from="1578559358525" duration="2000" />
+      <workItem from="1578578358823" duration="3000" />
     </task>
     <servers />
   </component>
