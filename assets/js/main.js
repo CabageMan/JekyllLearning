@@ -28,5 +28,5 @@ function onButtonClick() {
     window.location = /about/;
 }
 
-document.body.appendChild(createButton());
-document.body.appendChild(createA());
+// document.body.appendChild(createButton());
+// document.body.appendChild(createA());
